@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>微信小程序</title>
+      <link href="/2023/02/26/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+      <url>/2023/02/26/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</url>
+      
+        <content type="html"><![CDATA[<h2 id="一、开发环境安装"><a href="#一、开发环境安装" class="headerlink" title="一、开发环境安装"></a>一、开发环境安装</h2><p>安装链接：<a href="https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html">https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html</a><br>[注]：如果出现修改系统环境变量PATH失败，手动添加即可；</p><h2 id="二、小程序特点"><a href="#二、小程序特点" class="headerlink" title="二、小程序特点"></a>二、小程序特点</h2><ol><li>没有DOM</li><li>组件化开发，具有特定功能效果的代码集合</li><li>体积小，单个压缩包不大于2M</li><li>小程序的四个重要的文件<ul><li>.js</li><li>.wxml —view结构 —html</li><li>.wxss —view样式 —css</li><li>.json —view数据 —json文件</li></ul></li><li>小程序的适配方案：rpx（响应式像素单位）<ul><li>适配单位：rpx</li><li>规定任何屏幕下宽度为750rpx</li><li>小程序会根据屏幕的宽度不同自动计算rpx值的大小</li></ul></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 开发 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微信小程序 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>热门100题（题目均来自LeetCode，仅供学习使用）</title>
       <link href="/2023/02/11/%E7%83%AD%E9%97%A8100%E9%A2%98/"/>
       <url>/2023/02/11/%E7%83%AD%E9%97%A8100%E9%A2%98/</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> leetcode热题100 </category>
+          <category> 学习 </category>
           
       </categories>
       
@@ -40,7 +65,7 @@
       
       <categories>
           
-          <category> C语言复习 </category>
+          <category> 学习 </category>
           
       </categories>
       
