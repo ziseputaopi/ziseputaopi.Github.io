@@ -8,7 +8,7 @@
       <link href="/2023/03/31/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%A4%8D%E4%B9%A0/"/>
       <url>/2023/03/31/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%A4%8D%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="一、基础篇"><a href="#一、基础篇" class="headerlink" title="一、基础篇"></a>一、基础篇</h2><ol><li><p>体系结构</p><ul><li>OSI体系结构（7） ：应用层，表示层，会话层、运输层、网络层、数据链路层、物理层。</li><li>TCP&#x2F;IP体系结构（4）：应用层、运输层、网络层、网络接口层（数据链路层+物理层）。</li></ul></li><li><p>应用层（HTTP）—&gt;运输层（HTTP+TCP）—&gt;网际层（HTTP+TCP+IP）—&gt;数据链路层（帧头+HTTP+TCP+IP+帧尾）—&gt;物理层（比特流  0101…..）。</p></li><li><p>HTTP报文格式：起始行（描述请求或相应的基本信息）+头部字段（使用key-value形式更详细地说明报文）+消息正文（实际传输的数据）</p></li><li><p>TCP类似打电话，一对一，可靠，UDP类似发短信，不可靠，可以一对一，一对多，多对多，简单高效</p></li><li><p>TCP的三次握手和四次挥手 </p><ul><li>三次握手（建立连接）</li><li>四次挥手 （断开连接）</li></ul></li><li><p>TCP可靠传输</p><ul><li>swnd 发送窗口</li><li>cwnd 拥塞窗口</li><li>rwnd 接收窗口</li><li>流量控制</li><li>拥塞控制（只要网络中没有出现拥塞,cwnd就会不断增大，发生拥塞时，cwnd就会减少），控制算法：慢启动、拥塞避免、快速恢复</li></ul></li></ol><h2 id="二、重点知识"><a href="#二、重点知识" class="headerlink" title="二、重点知识"></a>二、重点知识</h2><p>1. </p>]]></content>
       
       
       <categories>
