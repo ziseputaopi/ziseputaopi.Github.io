@@ -33,7 +33,7 @@
       <link href="/2023/07/03/%E6%95%B0%E5%AD%A6%E4%B9%A0%E9%A2%98%E6%94%B6%E9%9B%86/"/>
       <url>/2023/07/03/%E6%95%B0%E5%AD%A6%E4%B9%A0%E9%A2%98%E6%94%B6%E9%9B%86/</url>
       
-        <content type="html"><![CDATA[<h2 id="一、数学基础过关660题"><a href="#一、数学基础过关660题" class="headerlink" title="一、数学基础过关660题"></a>一、数学基础过关660题</h2><p>28. </p><p>$$<br>设f(x) &#x3D;<br>\begin{cases}<br>  x^2, &amp; x \geq 0 \<br>  x^a\sin{\frac{1}{x}}, &amp; x &lt; 0<br>\end{cases}，<br>若f(x)可导，则a满足应 \underline{\hspace{2.5em}}；若f’(x)连续，则a满足应 \underline{\hspace{2.5em}}。</p><p>\<br>答案:a\gt1;a\gt2;<br>$$</p><p>68. </p><p>$$<br>\mathcal{I}&#x3D;\int_{1}^{+\infty} [\frac{2x^2+bx+a}{x(2x+a)}-1] dx&#x3D;1，则a&#x3D; \underline{\hspace{2.5em}}，b&#x3D; \underline{\hspace{2.5em}}</p><p>\<br>答案:a&#x3D;2e-2;b&#x3D;2e-2;<br>$$</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="一数学基础过关660题">一、数学基础过关660题</h2><ol start="28" type="1"><li><span class="math display">\[设f(x) =\begin{cases}  x^2, &amp; x \geq 0 \\  x^a\sin{\frac{1}{x}}, &amp; x &lt; 0\end{cases}，若f(x)可导，则a满足应\underline{\hspace{2.5em}}；若f&#39;(x)连续，则a满足应\underline{\hspace{2.5em}}。\]</span> <span class="math display">\[答案:a\gt1;a\gt2;\]</span></li></ol><hr><ol start="68" type="1"><li><span class="math display">\[\mathrm{I}=\int_{1}^{+\infty} [\frac{2x^2+bx+a}{x(2x+a)}-1] dx=1，则a=\underline{\hspace{2.5em}}，b= \underline{\hspace{2.5em}}。\]</span> <span class="math display">\[答案:a=2e-2;b=2e-2;\]</span></li></ol>]]></content>
       
       
       <categories>
